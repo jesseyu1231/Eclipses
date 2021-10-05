@@ -1,0 +1,61 @@
+[
+    {
+        "date": "20210412",
+        "ls": "Solar",
+        "type": "Total"
+    },
+        
+    {
+        "date": "20220430",
+        "ls": "Solar",
+        "type": "Partial"
+    },
+    
+    {
+        "date": "20230420",
+        "ls": "Solar",
+        "type": "Total"
+    },
+
+    {
+        "date": "20231014",
+        "ls": "Solar",
+        "type": "Annular"
+    },
+
+    {
+        "date": "20240408",
+        "ls": "Solar",
+        "type": "Total"
+    },
+
+    {
+        "date": "20241002",
+        "ls": "Solar",
+        "type": "Annular"
+    },
+
+    {
+        "date": "20260217",
+        "ls": "Solar",
+        "type": "Annular"
+    },
+
+    {
+        "date": "20260812",
+        "ls": "Solar",
+        "type": "Total"
+    },
+
+    {
+        "date": "20270206",
+        "ls": "Solar",
+        "type": "Annular"
+    },
+
+    {
+        "date": "20270802",
+        "ls": "Solar",
+        "type": "Total"
+    }
+]
